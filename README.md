@@ -1,1 +1,1 @@
-![Alt Text](file:///Users/michelle/Projects/project-0/source.gif)
+<img src=file:///Users/michelle/Projects/project-0/source.gif />
